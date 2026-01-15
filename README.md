@@ -4,7 +4,7 @@ An AI-powered workforce analytics application that predicts employee attrition u
 
 ## Live Demo
 
-**[View Live Application](https://your-app-url.streamlit.app)**
+**[View Live Application](https://hr-employee-churn-ruchira.streamlit.app/)**
 
 ## Project Overview
 
@@ -128,11 +128,11 @@ Top attrition drivers identified:
 
 ## Author
 
-**Your Name**
+**Your Name** Ruchira Karle 
 
-- LinkedIn:
-- GitHub:
-- Email:
+- LinkedIn: https://www.linkedin.com/in/ruchira-karle
+- GitHub: https://github.com/ruchirakarle
+- Email: karleruchira01@gmail.com
 
 ## License
 
